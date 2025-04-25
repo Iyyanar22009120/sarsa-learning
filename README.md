@@ -75,9 +75,14 @@ def sarsa(env,
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/9a41f428-f8d1-47dc-bbf7-6c275797308f)
-![image](https://github.com/user-attachments/assets/9164c47c-a992-4961-abd5-62ba8fed828f)
-![image](https://github.com/user-attachments/assets/8f2fcc18-2ae2-4e35-b5a7-2a43ad472542)
+![image](https://github.com/user-attachments/assets/9ba9f282-7c60-4ecc-b600-24005e089c44)
+![image](https://github.com/user-attachments/assets/23c22552-689f-477c-b9f2-025297b2d138)
+![image](https://github.com/user-attachments/assets/bbd41d6d-4799-4410-9cca-1194ac16fb79)
+![image](https://github.com/user-attachments/assets/cfbb11f1-5b22-4dc1-b7e2-736e74c94143)
+
+
+
+
 
 
 ## RESULT:
